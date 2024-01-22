@@ -1,0 +1,56 @@
+body{ 
+    background-color: #e1e3db;
+}
+
+
+
+
+/* aqui esta para imagem de inicio ela esta arredondada e a transição é de 1 segundo
+img{
+    border-radius: 2%;
+    border: 2px solid #70160e;;
+    transition: all 1s ease-in-out;
+    
+}
+
+
+img:hover{
+    border-radius: 10%;
+    border: 2px solid #9e0004;
+    transform: translateY(-30px);
+}
+*/
+
+
+
+ 
+.left{
+    float: left;
+    display: flex;
+    width: 10%;
+    height: 2000px;
+    background-color: #e1e3db;
+    color:#161917;
+    padding: 20px;
+
+    }
+
+    
+    .right{
+        float: right;
+        display: flex;
+        width: 10%;
+        height:2000px;
+        background-color: #e1e3db;
+        color:#161917;
+        padding: 20px;
+       
+
+    }
+    /* Footer */
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #70160e;
+    color:#161917;
+}
